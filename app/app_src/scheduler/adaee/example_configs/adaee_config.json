@@ -1,0 +1,7 @@
+{
+  "method": "adaee",
+  "type": "adaee",
+  "skip_exit_threshold": 1.0,
+  "scheduler_config": "app/app_src/scheduler/adaee/example_configs/adaee_config.pkl",
+  "learning_rate": 1
+}
