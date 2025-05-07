@@ -1,0 +1,7 @@
+{
+    "method": "single",
+    "type": "single_exit",
+    "mode": "single",
+    "gate_id": -1,
+    "loss_prob": 0
+}
